@@ -1,3 +1,5 @@
+![build badge](https://codeship.com/projects/285ac300-f322-0134-fad2-66135ababc06/status?branch=master)
+
 # Privacy Friendly Shopping List
 
 [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://f-droid.org/repository/browse/?fdid=privacyfriendlyshoppinglist.secuso.org.privacyfriendlyshoppinglist)<a href="https://play.google.com/store/apps/details?id=privacyfriendlyshoppinglist.secuso.org.privacyfriendlyshoppinglist"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="60"></a>
